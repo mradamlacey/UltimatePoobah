@@ -1,8 +1,0 @@
-E:\adam\work\silk\MileageStats\MileageStats.Model\bin\Debug\MileageStats.Model.dll
-E:\adam\work\silk\MileageStats\MileageStats.Model\bin\Debug\MileageStats.Model.pdb
-E:\adam\work\silk\MileageStats\MileageStats.Model\obj\Debug\ResolveAssemblyReference.cache
-E:\adam\work\silk\MileageStats\MileageStats.Model\obj\Debug\MileageStats.Model.Properties.Resources.resources
-E:\adam\work\silk\MileageStats\MileageStats.Model\obj\Debug\GenerateResource.read.1.tlog
-E:\adam\work\silk\MileageStats\MileageStats.Model\obj\Debug\GenerateResource.write.1.tlog
-E:\adam\work\silk\MileageStats\MileageStats.Model\obj\Debug\MileageStats.Model.dll
-E:\adam\work\silk\MileageStats\MileageStats.Model\obj\Debug\MileageStats.Model.pdb
