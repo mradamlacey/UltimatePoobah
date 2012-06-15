@@ -1,0 +1,7 @@
+E:\adam\work\silk\MileageStats\MileageStats.Data\bin\Debug\MileageStats.Data.dll
+E:\adam\work\silk\MileageStats\MileageStats.Data\bin\Debug\MileageStats.Data.pdb
+E:\adam\work\silk\MileageStats\MileageStats.Data\bin\Debug\MileageStats.Model.dll
+E:\adam\work\silk\MileageStats\MileageStats.Data\bin\Debug\MileageStats.Model.pdb
+E:\adam\work\silk\MileageStats\MileageStats.Data\obj\Debug\ResolveAssemblyReference.cache
+E:\adam\work\silk\MileageStats\MileageStats.Data\obj\Debug\MileageStats.Data.dll
+E:\adam\work\silk\MileageStats\MileageStats.Data\obj\Debug\MileageStats.Data.pdb

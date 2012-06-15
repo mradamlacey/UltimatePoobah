@@ -1,0 +1,45 @@
+﻿@model MileageStats.Web.Models.ReminderAddViewModel
+@{
+    ViewBag.Title = "Add Reminder";
+}
+<div id="details-page">
+    <div id="scrollable">
+        <div>
+            @Html.Partial("_VehicleList", Model.VehicleList)
+        </div>
+    </div>
+    <div id="fixed">
+        <div>
+            <div id="info" class="framed article">
+                <div>
+                    <div id="details-pane" class="tab opened section">
+                        @Html.ActionLink(" ", "Details", "Vehicle", new { id = Model.VehicleList.Vehicles.SelectedItem.VehicleId }, new { @class = "trigger" })
+                    </div>
+                    <div id="fillups-pane" class="tab opened section">
+                        @Html.ActionLink(" ", "List", "Fillup", new { vehicleId = Model.VehicleList.Vehicles.SelectedItem.VehicleId }, new { @class = "trigger" })
+                    </div>
+                    <div id="reminders-pane" class="tab opened section">
+                        <a></a>
+                        <div class="content">
+                            <div class="header">
+                            </div>
+                            <div class="aside">
+                                @Html.Partial("_ReminderList", Model.Reminders)
+                            </div>
+                            <div class="editor article">
+                                @using(Html.BeginForm()) 
+                                {
+                                    if (Model.Reminder != null) 
+                                    { 
+                                        @Html.Partial("_ReminderForm", Model.Reminder) 
+                                    }
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

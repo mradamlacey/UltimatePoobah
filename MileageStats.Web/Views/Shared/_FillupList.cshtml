@@ -1,0 +1,12 @@
+﻿@model MileageStats.Web.Models.SelectedItemList<MileageStats.Model.FillupEntry>
+<div class="list nav">
+    @foreach (var item in Model)
+    {
+        var selectedId = (Model.SelectedItem == null) ? -1 : Model.SelectedItem.FillupEntryId;
+        <a class="list-item @(item.FillupEntryId == selectedId ? "selected" : String.Empty)" href="@Url.Action("Details", "Fillup", new { id = item.FillupEntryId })">
+            <h1 class="date">@String.Format("{0:d MMM yyyy}", item.Date)</h1>
+            <p class="vendor">@item.Vendor</p>
+            <p class="total-cost">@String.Format("{0:F2}", item.TotalCost)</p>
+        </a>
+    }
+</div>

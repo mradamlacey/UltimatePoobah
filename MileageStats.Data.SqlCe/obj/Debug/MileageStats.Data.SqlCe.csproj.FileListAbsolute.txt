@@ -1,0 +1,15 @@
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\obj\Debug\ResolveAssemblyReference.cache
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\obj\Debug\MileageStats.Data.SqlCe.Properties.Resources.resources
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\obj\Debug\GenerateResource.read.1.tlog
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\obj\Debug\GenerateResource.write.1.tlog
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Data.SqlCe.dll
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Data.SqlCe.pdb
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\EntityFramework.dll
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Data.dll
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Model.dll
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\System.Data.SqlServerCe.dll
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Data.pdb
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\MileageStats.Model.pdb
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\obj\Debug\MileageStats.Data.SqlCe.dll
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\obj\Debug\MileageStats.Data.SqlCe.pdb
+E:\adam\work\silk\MileageStats\MileageStats.Data.SqlCe\bin\Debug\EntityFramework.xml

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="bvttests" storage="c:\pnpwebclient\test\spikes\codeduitestbaseduimap\mileagestats.acceptancetest\mileagestats.acceptancetest\ordertests\bvttests.orderedtest" id="c71bbae5-6ce8-4df7-a41f-db225747fc3a" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="ee121095-9fba-2797-c84e-82e03b71dcc9" name="SignInSignOut" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="5f1b3daf-1211-7206-cbee-924790664464" name="AddNewVehicleWithOptionalFields" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="89cf9848-8332-6af3-cdbe-4d67eb76be63" name="AddFillupWithAllFields" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="1e14063e-a3a5-2d2a-a940-17c072ccb322" name="AddReminder" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="6ae97797-56ed-b2d7-396f-f139fab74a3a" name="EditProfile" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

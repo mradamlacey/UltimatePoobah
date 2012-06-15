@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="filluptest" storage="c:\trunk\source\mileagestats.acceptancetest\mileagestats.acceptancetest\ordertests\filluptest.orderedtest" id="d4fa4f73-a11d-4b07-98e7-e139204e47ce" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Execution id="2c8a0745-2832-4300-a47f-ae52fa2c4685" />
+  <TestLinks>
+    <TestLink id="89cf9848-8332-6af3-cdbe-4d67eb76be63" name="AddFillupWithAllFields" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="0c0acc25-347c-bfce-daad-23b94bdc609c" name="AddFillupWithRequiredFields" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="959a2440-e679-630c-7587-2582a06ee6dc" name="VerifyMpgValue" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="41d44cfa-848f-0a0d-a435-02ac3ab550bc" name="AddFillupValidatedMessageTest" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

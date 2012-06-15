@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="signintest" storage="c:\trunk\source\mileagestats.acceptancetest\mileagestats.acceptancetest\ordertests\signintest.orderedtest" id="2d720131-c1d2-437c-b85e-8dd69b8ff902" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="b2c0d40d-31f2-24f9-2075-2dfe24a7b640" name="SignInSignOutWithDefaultUser" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="8b98e985-8607-2591-00bc-5d6bb6631912" name="SignInSignOutWithNewUser" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

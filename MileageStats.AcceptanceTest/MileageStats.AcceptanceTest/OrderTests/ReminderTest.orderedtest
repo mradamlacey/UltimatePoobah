@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="remindertest" storage="c:\trunk\source\mileagestats.acceptancetest\mileagestats.acceptancetest\ordertests\remindertest.orderedtest" id="33c04b6c-a3f1-4e2d-9af4-5c66fad0d36b" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Execution id="621c0861-ae7c-4b8f-926d-9c5cbbaf4268" />
+  <TestLinks>
+    <TestLink id="1e14063e-a3a5-2d2a-a940-17c072ccb322" name="AddReminder" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="20efdedf-1ac9-f228-2883-673bde6d21be" name="FulfillReminder" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="39bf3451-d46f-ab6c-5f68-569ee759442a" name="AddReminderWithTitleDueDateOnly" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="6bb21680-e4d2-d168-3a3e-877fd2d21c11" name="AddReminderWithTitleDueDistanceOnly" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="65105f8d-bd25-a83e-baba-14ca295f5f1a" name="AddReminderValidatedMessageTest" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

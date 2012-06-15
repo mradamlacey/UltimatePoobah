@@ -1,0 +1,55 @@
+﻿@model MileageStats.Web.Models.VehicleAddViewModel
+@{
+    ViewBag.Title = "Edit Vehicle";
+}
+<div id="details-page">
+    <div id="scrollable">
+        <div>
+            @Html.Partial("_VehicleList", Model.VehiclesList)
+        </div>
+    </div>
+    <div id="fixed">
+        <div>
+            <div id="info" class="article framed">
+                <div>
+                    <div id="edit-vehicle-pane" class="tab opened section">
+                        @Html.ActionLink(" ", "Details", "Vehicle", new { id = Model.Vehicle.VehicleId }, new { @class = "trigger" })
+                        <div class="content">
+                            <div class="header">
+                            </div>
+                            <div class="editor article">
+                                @using (Html.BeginForm("Edit", "Vehicle", 
+                                        FormMethod.Post,
+                                        new { 
+                                            enctype = "multipart/form-data"
+                                        }))
+                                {
+                                    @Html.Hidden("vehicleId", Model.Vehicle.VehicleId); 
+                                    @Html.Partial("_VehicleForm", Model.Vehicle);
+                                    <label id="Instructions">
+                                        Note: Year, Make, Model and Photo are optional.
+                                    </label>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                    <div id="fillups-pane" class="tab section">
+                        @Html.ActionLink(" ", "List", "Fillup", new { vehicleId = Model.Vehicle.VehicleId }, new { @class = "trigger" })
+                    </div>
+                    <div id="reminders-pane" class="tab section">
+                        @Html.ActionLink(" ", "List", "Reminder", new { vehicleId = Model.Vehicle.VehicleId }, new { @class = "trigger" })
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+        $(function () {
+            var dropDownMonitor = new mstats.VehicleDropDownMonitor(mstats.pubsub.publish, mstats.dataManager.sendRequest);
+            dropDownMonitor.initialize();
+        });
+    </script>
+}

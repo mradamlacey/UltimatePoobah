@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="ProfileTest" storage="c:\pnpwebclient\trunk\source\mileagestats.acceptancetest\mileagestats.acceptancetest\ordertests\profiletest.orderedtest" id="2e8d9c12-c2f4-4982-858c-866a91457636" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Execution id="4a92e0e3-6b95-464c-bae1-84095451fe41" />
+  <TestLinks>
+    <TestLink id="6ae97797-56ed-b2d7-396f-f139fab74a3a" name="EditProfile" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="2f70aa02-678a-a9d3-ed0d-24d3002a59bd" name="EditProfileWithNullPostalCode" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="234e4e5f-cc95-ab9d-13f2-1924bde407a4" name="EditProfileValidateMessageTest" storage="..\bin\debug\mileagestats.acceptancetest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

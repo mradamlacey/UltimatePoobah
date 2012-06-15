@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="fulltests" storage="c:\trunk\source\mileagestats.acceptancetest\mileagestats.acceptancetest\ordertests\fulltests.orderedtest" id="d6faf08f-320f-41d0-807e-0d26c6a260da" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Execution id="d1b66211-4aa7-4594-b485-e661764425f0" />
+  <TestLinks>
+    <TestLink id="2d720131-c1d2-437c-b85e-8dd69b8ff902" name="SignInTest" storage="signintest.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="2e8d9c12-c2f4-4982-858c-866a91457636" name="ProfileTest" storage="profiletest.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="fc834a7c-eb3c-4fe8-bb48-1313da10731d" name="VehicleTest" storage="vehicletest.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="d4fa4f73-a11d-4b07-98e7-e139204e47ce" name="FillupTest" storage="filluptest.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="33c04b6c-a3f1-4e2d-9af4-5c66fad0d36b" name="ReminderTest" storage="remindertest.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
